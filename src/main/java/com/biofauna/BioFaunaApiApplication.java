@@ -1,4 +1,4 @@
-package com.biofauna.api;
+package com.biofauna;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
